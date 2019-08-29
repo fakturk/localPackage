@@ -3,6 +3,6 @@ import(
 	"fmt"
 )
 
-func firstPrint()  {
+func FirstPrint()  {
 	fmt.Println("first")
 }
